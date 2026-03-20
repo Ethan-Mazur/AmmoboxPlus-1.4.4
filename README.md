@@ -31,6 +31,9 @@ Examples of implemented ammo types (full list on the forum post):
 
 ## Changelog
 
+- v1.5.0.2
+    * Updated for tModLoader v2026.01.3.2
+  
 - v1.5.0.1
 	* Updated for tModLoader v0.11.6.2
 	* Fix a crash when spawning dev weapons when no weapon conditions were met
